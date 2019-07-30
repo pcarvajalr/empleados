@@ -1,0 +1,8 @@
+[
+    { "id": 1, "nombre": "Pedro", "pais": "Venezuela" },
+    { "id": 2, "nombre": "Luis", "pais": "Venezuela" },
+    { "id": 3, "nombre": "Pablo", "pais": "Venezuela" },
+    { "id": 4, "nombre": "Marta", "pais": "Venezuela" },
+    { "id": 5, "nombre": "Rodolfo", "pais": "Venezuela" },
+    { "id": 6, "nombre": "Quintero", "pais": "Venezuela" }
+]
