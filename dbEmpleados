@@ -4,5 +4,6 @@
     { "id": 3, "nombre": "Pablo", "pais": "Venezuela" },
     { "id": 4, "nombre": "Marta", "pais": "Venezuela" },
     { "id": 5, "nombre": "Rodolfo", "pais": "Venezuela" },
-    { "id": 6, "nombre": "Quintero", "pais": "Venezuela" }
+    { "id": 6, "nombre": "Quintero", "pais": "Venezuela" },
+    { "id": 7, "nombre": "Eloi", "pais": "Colomia" }
 ]
